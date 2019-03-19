@@ -1,6 +1,5 @@
-body {   background-image: url(/css/bg2.JPG) repeat fixed;
-
-			
+body {   
+    background: url(/css/bg2.JPG) repeat fixed top left;	
     margin: 60px auto;
     width: 70%;
 }
