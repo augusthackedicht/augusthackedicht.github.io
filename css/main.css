@@ -14,7 +14,7 @@ nav ul,  {
     padding: 0px;
     list-style: none;
     font-weight: bold;
-    border-bottom: 2px solid rgba(0,0,0,0.24);
+    border-bottom: 20px solid rgba(0,0,0,0.24);
 }
 nav ul li, footer ul li {
     display: inline;
