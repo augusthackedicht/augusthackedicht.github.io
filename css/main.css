@@ -36,12 +36,14 @@ h1 {
 }
 p {
     font-size: 1.5em;
+    font-family:'Tahoma', 'Geneva', 'Sans-Serif';
     line-height: 1.4em;
     color: #000000;
 }
 footer {
     border-top: 1px solid #000000;
     font-size: .8em;
+    font-family:'Tahoma', 'Geneva', 'Sans-Serif';
 }
 
 ul.posts { 
