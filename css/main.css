@@ -1,14 +1,16 @@
-h2 { font-size: 130%; }
+h2 {font-size: 130%;
+    font-family: 'Tahoma', 'Geneva', 'Sans-Serif';}
 h3 {
-  font-size: 110%;
-  margin: 0 0 1em 0;
+    font-family: 'Tahoma', 'Geneva', 'Sans-Serif';  
+    font-size: 110%;
+    margin: 0 0 1em 0;
 }
 div.box {
-  width: 500px;
-  padding: 10px;
-  padding-top: 25px;
-  border: 1px solid black;
-  margin: 0 3px 3px 0;
+    width: 500px;
+    padding: 10px;
+    padding-top: 25px;
+    border: 1px solid black;
+    margin: 0 3px 3px 0;
 }
 
 body {   
