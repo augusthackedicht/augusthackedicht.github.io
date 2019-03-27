@@ -34,6 +34,7 @@ nav ul,  {
     border-bottom: 20px solid rgba(0,0,0,0.24);
 }
 nav ul li, footer ul li {
+    font-size: 1.5em;
     font-family: 'Tahoma', 'Geneva', 'Sans-Serif';
     display: inline;
     margin-right: 20px;
